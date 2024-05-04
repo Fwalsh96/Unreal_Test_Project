@@ -2207,3 +2207,641 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.05.04-21.25.36:363][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
 [2024.05.04-21.25.36:369][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2024.05.04-21.25.36:413][791]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.05.04-21.28.34:203][871]BlueprintLog: New page: Compile AmmoPickup
+[2024.05.04-21.28.34:225][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.05.04-21.29.47:215][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.04-21.29.47:279][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AmmoPickup" FILE="../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/AmmoPickup.uasset" SILENT=true
+[2024.05.04-21.29.47:285][526]LogSavePackage: Moving output files for package: /Game/AmmoPickup
+[2024.05.04-21.29.47:286][526]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/AmmoPickup85AF7E514FBFE8B9F96C55AB8FDB96F8.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/AmmoPickup.uasset'
+[2024.05.04-21.29.47:290][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 589 ms)
+[2024.05.04-21.29.47:292][526]AssetCheck: New page: Asset Save: AmmoPickup
+[2024.05.04-21.29.47:292][526]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AmmoPickup.AmmoPickup
+[2024.05.04-21.29.48:130][625]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.04-21.29.48:130][625]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.05.04-21.29.48:130][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.29.49:105][737]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.04-21.29.49:105][737]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.04-21.29.49:105][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.29.50:288][871]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.04-21.29.50:288][871]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.04-21.29.50:288][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.30.03:217][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.04-21.30.03:218][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.04-21.30.03:218][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.04-21.34.19:448][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.04-21.34.19:453][902]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1B/VDAQXETSUVSATTY0PP7YDL_Auto8
+[2024.05.04-21.34.19:453][902]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/VDAQXETSUVSATTY0PP7YDL_Auto8922EF6E24C015DC5640AEC964A45C350.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1B/VDAQXETSUVSATTY0PP7YDL_Auto8.uasset'
+[2024.05.04-21.34.19:454][902]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.05.04-21.34.19:454][902]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.05.04-21.34.19:454][902]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.05.04-21.34.19:532][902]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.05.04-21.34.19:532][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.05.04-21.34.19:559][902]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8
+[2024.05.04-21.34.19:560][902]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/BP_FirstPersonCharacter_Auto871FEC3904CEE59E4807513B6FC9B9656.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8.uasset'
+[2024.05.04-21.34.19:561][902]LogFileHelpers: Auto-saving content packages took 0.106
+[2024.05.04-21.36.53:539][ 13]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.04-21.36.53:614][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.04-21.36.53:622][ 13]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.36.53:623][ 13]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.36.53:623][ 13]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.36.53:636][ 13]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.36.53:636][ 13]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.36.53:637][ 13]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.36.53:637][ 13]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.36.53:724][ 13]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.36.53:725][ 13]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.36.53:725][ 13]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.36.53:727][ 13]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.36.53:728][ 13]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.36.53:728][ 13]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.36.53:729][ 13]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.40.16:501][696]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.04-21.40.16:558][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.04-21.40.16:568][696]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.40.16:569][696]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.40.16:569][696]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.40.16:572][696]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.40.16:572][696]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.40.16:573][696]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.40.16:573][696]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.40.16:602][696]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.40.16:603][696]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.40.16:603][696]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.40.16:605][696]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.40.16:606][696]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.40.16:606][696]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.40.16:607][696]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.40.42:001][720]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.04-21.40.42:057][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.04-21.40.42:066][720]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.40.42:067][720]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.40.42:067][720]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.40.42:069][720]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.40.42:070][720]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.40.42:071][720]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.40.42:071][720]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.40.42:086][720]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.40.42:086][720]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.40.42:087][720]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.40.42:088][720]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.40.42:089][720]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.40.42:089][720]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.40.42:090][720]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.41.11:720][ 55]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.04-21.41.11:782][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.04-21.41.11:792][ 55]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.41.11:793][ 55]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.11:793][ 55]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.11:795][ 55]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.41.11:796][ 55]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.41.11:797][ 55]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.41.11:797][ 55]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.41.11:844][ 55]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.41.11:845][ 55]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.11:845][ 55]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.11:847][ 55]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.41.11:848][ 55]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.41.11:849][ 55]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.41.11:849][ 55]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.41.36:821][955]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.04-21.41.36:880][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.04-21.41.36:886][955]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.41.36:886][955]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.36:887][955]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.36:888][955]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.41.36:889][955]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.41.36:890][955]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.41.36:891][955]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.41.36:915][955]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.41.36:915][955]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.36:916][955]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.36:917][955]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.41.36:918][955]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.41.36:918][955]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.41.36:919][955]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.41.59:002][439]BlueprintLog: New page: Compile BP_Pickup_Pistol
+[2024.05.04-21.41.59:010][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.41.59:010][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.59:011][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.59:029][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.04-21.41.59:034][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.41.59:035][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.59:035][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.59:035][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_1] Pistol
+[2024.05.04-21.41.59:049][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.41.59:049][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.41.59:049][439]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_1] Pistol
+[2024.05.04-21.42.01:202][665]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.04-21.42.01:207][665]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.04-21.42.01:207][665]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.04-21.42.01:209][665]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 22 ms)
+[2024.05.04-21.42.01:209][665]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.04-21.42.01:212][665]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2024.05.04-21.42.01:218][665]LogPlayLevel: [PlayLevel]   Compiling BP_FirstPersonCharacter as a dependent...
+[2024.05.04-21.42.01:257][665]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.42.01:257][665]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.42.01:257][665]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_1] Pistol
+[2024.05.04-21.42.01:268][665]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.42.01:268][665]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.42.01:269][665]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.42.01:269][665]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.42.01:293][665]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.42.01:293][665]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.42.01:294][665]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_1] Pistol
+[2024.05.04-21.42.01:295][665]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.42.01:296][665]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.42.01:297][665]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.42.01:297][665]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.42.01:320][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.04-21.42.01:328][665]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (2 blueprints)
+[2024.05.04-21.42.01:328][665]PIE: New page: PIE session: FirstPersonMap (May 4, 2024, 11:42:01 AM)
+[2024.05.04-21.42.01:369][665]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.42.01:372][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004085s)
+[2024.05.04-21.42.01:372][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004112s)
+[2024.05.04-21.42.01:381][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.04-21.42.01:383][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.04-21.42.01:383][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.04-21.42.01:383][665]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.04-21.42.01:384][665]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.04-21.42.01:384][665]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.04-21.42.01:384][665]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.04-21.42.01:384][665]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.04-21.42.01:385][665]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.05.04-21.42.01:385][665]LogWorldPartition: Display: WorldPartition initialize took 998 us (total: 357 ms)
+[2024.05.04-21.42.01:385][665]LogPlayLevel: PIE: World Init took: (0.001865s)
+[2024.05.04-21.42.01:385][665]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.05.04-21.42.01:385][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.04-21.42.01:385][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.04-21.42.01:385][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.04-21.42.01:385][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.04-21.42.01:385][665]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.04-21.42.01:385][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.04-21.42.01:385][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.04-21.42.01:385][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.04-21.42.01:386][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.04-21.42.01:386][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.04-21.42.01:386][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.04-21.42.01:388][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.04-21.42.01:404][665]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.05.04-21.42.01:405][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.04-21.42.01:405][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.04-21.42.01:405][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.04-21.42.01:406][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.05.04-21.42.01:406][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.05.04-21.42.01:407][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.05.04-21.42.01:407][665]LogInit: FAudioDevice initialized with ID 13.
+[2024.05.04-21.42.01:407][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.05.04-21.42.01:407][665]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2024.05.04-21.42.01:407][665]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.04-21.42.01:409][665]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.04-21.42.01:411][665]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.04-16.42.01
+[2024.05.04-21.42.01:411][665]LogWorld: Bringing up level for play took: 0.001833
+[2024.05.04-21.42.01:412][665]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.05.04-21.42.01:415][665]PIE: Server logged in
+[2024.05.04-21.42.01:416][665]PIE: Play in editor total start time 0.208 seconds.
+[2024.05.04-21.42.05:048][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.42.05:048][ 83]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.42.05:048][ 83]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.04-21.42.05:049][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.42.05:049][ 83]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.04-21.42.05:051][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.04-21.42.05:055][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.42.05:065][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.42.05:066][ 83]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.04-21.42.05:066][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.04-21.42.05:067][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.04-21.42.05:073][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.04-21.42.05:133][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.05.04-21.42.11:129][787]LogEditorTransaction: Undo Create Pin Link
+[2024.05.04-21.42.11:132][787]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.42.11:133][787]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.42.11:133][787]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_1] Pistol
+[2024.05.04-21.42.11:749][809]LogEditorTransaction: Undo Break Node Links
+[2024.05.04-21.42.11:771][809]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.42.11:771][809]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.42.11:772][809]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_1] Pistol
+[2024.05.04-21.42.15:546][256]BlueprintLog: New page: Compile BP_Pickup_Pistol
+[2024.05.04-21.42.15:552][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.42.15:553][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.42.15:553][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_1] Pistol
+[2024.05.04-21.42.15:569][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.04-21.42.15:577][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.42.15:577][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.42.15:578][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_1] Pistol
+[2024.05.04-21.42.15:578][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_2] Pistol
+[2024.05.04-21.42.15:591][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.42.15:592][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.42.15:592][256]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_2] Pistol
+[2024.05.04-21.42.30:462][ 19]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.04-21.42.30:523][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.04-21.42.30:531][ 19]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.42.30:532][ 19]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.42.30:533][ 19]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_2] Pistol
+[2024.05.04-21.42.30:543][ 19]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.42.30:544][ 19]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.42.30:544][ 19]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.42.30:545][ 19]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.42.30:557][ 19]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.42.30:557][ 19]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.42.30:558][ 19]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_2] Pistol
+[2024.05.04-21.42.30:559][ 19]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.42.30:560][ 19]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.42.30:561][ 19]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.42.30:561][ 19]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.43.19:420][591]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.04-21.43.19:488][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.04-21.43.19:497][591]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.43.19:497][591]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.43.19:498][591]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_2] Pistol
+[2024.05.04-21.43.19:511][591]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.43.19:511][591]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.43.19:512][591]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.43.19:513][591]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.43.19:564][591]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.43.19:565][591]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.43.19:565][591]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_2] Pistol
+[2024.05.04-21.43.19:567][591]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.43.19:568][591]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.43.19:569][591]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.43.19:569][591]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.43.26:158][354]BlueprintLog: New page: Compile BP_Pickup_Pistol
+[2024.05.04-21.43.26:166][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.43.26:166][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.43.26:167][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_2] Pistol
+[2024.05.04-21.43.26:184][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.04-21.43.26:197][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.43.26:197][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.43.26:198][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_2] Pistol
+[2024.05.04-21.43.26:198][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_3] Pistol
+[2024.05.04-21.43.26:210][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.43.26:211][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.43.26:211][354]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_3] Pistol
+[2024.05.04-21.43.27:331][454]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.04-21.43.27:337][454]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.04-21.43.27:337][454]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.04-21.43.27:339][454]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 24 ms)
+[2024.05.04-21.43.27:339][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.04-21.43.27:339][454]PIE: New page: PIE session: FirstPersonMap (May 4, 2024, 11:43:27 AM)
+[2024.05.04-21.43.27:371][454]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.43.27:376][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004163s)
+[2024.05.04-21.43.27:376][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004185s)
+[2024.05.04-21.43.27:388][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.04-21.43.27:392][454]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.04-21.43.27:392][454]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.04-21.43.27:393][454]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.04-21.43.27:393][454]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.04-21.43.27:393][454]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.04-21.43.27:393][454]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.04-21.43.27:393][454]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.04-21.43.27:394][454]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.05.04-21.43.27:394][454]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 358 ms)
+[2024.05.04-21.43.27:394][454]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2024.05.04-21.43.27:394][454]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.05.04-21.43.27:394][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.04-21.43.27:394][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.04-21.43.27:394][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.04-21.43.27:394][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.04-21.43.27:394][454]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.04-21.43.27:394][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.04-21.43.27:394][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.04-21.43.27:394][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.04-21.43.27:394][454]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.04-21.43.27:394][454]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.04-21.43.27:394][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.04-21.43.27:396][454]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.04-21.43.27:414][454]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.05.04-21.43.27:414][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.04-21.43.27:414][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.04-21.43.27:414][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.04-21.43.27:414][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.05.04-21.43.27:414][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.05.04-21.43.27:415][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.05.04-21.43.27:416][454]LogInit: FAudioDevice initialized with ID 14.
+[2024.05.04-21.43.27:416][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.05.04-21.43.27:416][454]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2024.05.04-21.43.27:416][454]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.04-21.43.27:418][454]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.04-21.43.27:420][454]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.04-16.43.27
+[2024.05.04-21.43.27:420][454]LogWorld: Bringing up level for play took: 0.001781
+[2024.05.04-21.43.27:421][454]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.05.04-21.43.27:423][454]PIE: Server logged in
+[2024.05.04-21.43.27:423][454]PIE: Play in editor total start time 0.087 seconds.
+[2024.05.04-21.43.29:167][655]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.04-21.43.30:635][831]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.04-21.43.30:635][831]LogBlueprintUserMessages: DOESNT HAVE
+[2024.05.04-21.43.31:326][914]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.04-21.43.31:326][914]LogBlueprintUserMessages: Shotgun
+[2024.05.04-21.43.33:076][124]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.04-21.43.33:076][124]LogBlueprintUserMessages: Weapon Alread Equipped
+[2024.05.04-21.43.33:935][227]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.04-21.43.33:935][227]LogBlueprintUserMessages: Weapon Alread Equipped
+[2024.05.04-21.43.34:360][278]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.04-21.43.34:360][278]LogBlueprintUserMessages: Weapon Alread Equipped
+[2024.05.04-21.43.35:463][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.43.35:463][407]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.43.35:463][407]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.04-21.43.35:463][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.43.35:463][407]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.04-21.43.35:465][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.04-21.43.35:470][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.43.35:479][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.43.35:479][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.04-21.43.35:479][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.04-21.43.35:480][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.04-21.43.35:487][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.04-21.43.35:542][408]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.05.04-21.44.18:572][364]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.04-21.44.18:631][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.04-21.44.18:636][364]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.44.18:637][364]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.44.18:638][364]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_3] Pistol
+[2024.05.04-21.44.18:650][364]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.44.18:651][364]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.44.18:652][364]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.44.18:653][364]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.44.18:738][364]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.44.18:738][364]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.44.18:739][364]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_3] Pistol
+[2024.05.04-21.44.18:740][364]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.44.18:741][364]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.44.18:741][364]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.44.18:742][364]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.44.28:401][423]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.04-21.44.28:460][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.04-21.44.28:469][423]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.44.28:470][423]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.44.28:470][423]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_3] Pistol
+[2024.05.04-21.44.28:472][423]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.44.28:473][423]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.44.28:474][423]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.44.28:474][423]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.44.28:536][423]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.44.28:537][423]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.44.28:537][423]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_3] Pistol
+[2024.05.04-21.44.28:540][423]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_UAID_9C6B0014AE5450EF01_1729568623] Rifle
+[2024.05.04-21.44.28:540][423]LogBlueprintUserMessages: [BP_Rifle_C_1] Rifle
+[2024.05.04-21.44.28:541][423]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.44.28:541][423]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] Rifle
+[2024.05.04-21.44.30:122][561]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.04-21.44.30:127][561]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.04-21.44.30:128][561]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.04-21.44.30:129][561]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 26 ms)
+[2024.05.04-21.44.30:129][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.04-21.44.30:129][561]PIE: New page: PIE session: FirstPersonMap (May 4, 2024, 11:44:30 AM)
+[2024.05.04-21.44.30:154][561]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.44.30:158][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003865s)
+[2024.05.04-21.44.30:158][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003887s)
+[2024.05.04-21.44.30:170][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.04-21.44.30:180][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.04-21.44.30:180][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.04-21.44.30:181][561]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.04-21.44.30:181][561]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.04-21.44.30:181][561]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.04-21.44.30:181][561]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.04-21.44.30:181][561]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.04-21.44.30:182][561]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.05.04-21.44.30:182][561]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 359 ms)
+[2024.05.04-21.44.30:182][561]LogPlayLevel: PIE: World Init took: (0.002223s)
+[2024.05.04-21.44.30:182][561]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.05.04-21.44.30:182][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.04-21.44.30:182][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.04-21.44.30:182][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.04-21.44.30:182][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.04-21.44.30:182][561]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.04-21.44.30:182][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.04-21.44.30:182][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.04-21.44.30:182][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.04-21.44.30:183][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.04-21.44.30:183][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.04-21.44.30:183][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.04-21.44.30:185][561]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.04-21.44.30:203][561]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.05.04-21.44.30:203][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.04-21.44.30:203][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.04-21.44.30:203][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.04-21.44.30:204][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.05.04-21.44.30:204][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.05.04-21.44.30:205][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.05.04-21.44.30:205][561]LogInit: FAudioDevice initialized with ID 15.
+[2024.05.04-21.44.30:205][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.05.04-21.44.30:205][561]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2024.05.04-21.44.30:205][561]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.04-21.44.30:207][561]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.04-21.44.30:209][561]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.04-16.44.30
+[2024.05.04-21.44.30:209][561]LogWorld: Bringing up level for play took: 0.001812
+[2024.05.04-21.44.30:210][561]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.05.04-21.44.30:212][561]PIE: Server logged in
+[2024.05.04-21.44.30:213][561]PIE: Play in editor total start time 0.085 seconds.
+[2024.05.04-21.44.31:959][762]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.04-21.44.32:342][808]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.04-21.44.32:343][808]LogBlueprintUserMessages: Shotgun
+[2024.05.04-21.44.33:850][989]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.44.34:642][ 84]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.44.37:300][403]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.44.37:975][484]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.44.38:342][528]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.44.39:225][634]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.44.39:692][690]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.44.43:092][ 98]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.44.43:875][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.44.43:875][188]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.44.43:876][188]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.04-21.44.43:876][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.44.43:876][188]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.04-21.44.43:879][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.04-21.44.43:884][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.44.43:895][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.04-21.44.43:896][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.04-21.44.43:896][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.04-21.44.43:897][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.04-21.44.43:900][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.44.43:903][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.05.04-21.44.43:967][189]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.05.04-21.44.54:636][400]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Shotgun.BP_Pickup_Shotgun
+[2024.05.04-21.44.54:636][400]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.04-21.44.54:636][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.04-21.44.54:721][400]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_0] Shotgun
+[2024.05.04-21.45.32:844][860]BlueprintLog: New page: Compile BP_Pickup_Pistol
+[2024.05.04-21.45.32:851][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.45.32:852][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.45.32:852][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_3] Pistol
+[2024.05.04-21.45.32:870][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.04-21.45.32:876][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.45.32:876][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.45.32:877][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_3] Pistol
+[2024.05.04-21.45.32:877][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_4] Pistol
+[2024.05.04-21.45.32:889][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.45.32:890][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.45.32:890][860]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_4] Pistol
+[2024.05.04-21.45.56:885][706]BlueprintLog: New page: Compile BP_Pickup_Pistol
+[2024.05.04-21.45.56:893][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.45.56:894][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.45.56:895][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_4] Pistol
+[2024.05.04-21.45.56:911][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.04-21.45.56:917][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.45.56:918][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.45.56:919][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_4] Pistol
+[2024.05.04-21.45.56:919][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_5] Pistol
+[2024.05.04-21.45.56:931][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_UAID_9C6B0014AE54A2E901_2073926719] Pistol
+[2024.05.04-21.45.56:931][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_0] Pistol
+[2024.05.04-21.45.56:932][706]LogBlueprintUserMessages: [BP_Pickup_Pistol_C_5] Pistol
+[2024.05.04-21.45.59:049][924]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.04-21.45.59:055][924]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.04-21.45.59:055][924]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.04-21.45.59:057][924]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 27 ms)
+[2024.05.04-21.45.59:057][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.04-21.45.59:057][924]PIE: New page: PIE session: FirstPersonMap (May 4, 2024, 11:45:59 AM)
+[2024.05.04-21.45.59:078][924]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.45.59:082][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003940s)
+[2024.05.04-21.45.59:082][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003961s)
+[2024.05.04-21.45.59:093][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.04-21.45.59:098][924]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.04-21.45.59:098][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.04-21.45.59:098][924]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.04-21.45.59:098][924]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.04-21.45.59:098][924]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.04-21.45.59:098][924]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.04-21.45.59:098][924]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.04-21.45.59:099][924]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.05.04-21.45.59:099][924]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 360 ms)
+[2024.05.04-21.45.59:099][924]LogPlayLevel: PIE: World Init took: (0.001838s)
+[2024.05.04-21.45.59:100][924]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.05.04-21.45.59:100][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.04-21.45.59:100][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.04-21.45.59:100][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.04-21.45.59:100][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.04-21.45.59:100][924]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.04-21.45.59:100][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.04-21.45.59:100][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.04-21.45.59:100][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.04-21.45.59:100][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.04-21.45.59:100][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.04-21.45.59:100][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.04-21.45.59:102][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.04-21.45.59:119][924]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.05.04-21.45.59:119][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.04-21.45.59:119][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.04-21.45.59:119][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.04-21.45.59:120][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.05.04-21.45.59:120][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.05.04-21.45.59:121][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.05.04-21.45.59:121][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.05.04-21.45.59:121][924]LogInit: FAudioDevice initialized with ID 16.
+[2024.05.04-21.45.59:121][924]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2024.05.04-21.45.59:121][924]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.05.04-21.45.59:123][924]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.04-21.45.59:125][924]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.04-16.45.59
+[2024.05.04-21.45.59:125][924]LogWorld: Bringing up level for play took: 0.001735
+[2024.05.04-21.45.59:126][924]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.05.04-21.45.59:129][924]PIE: Server logged in
+[2024.05.04-21.45.59:129][924]PIE: Play in editor total start time 0.073 seconds.
+[2024.05.04-21.46.00:718][106]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.04-21.46.01:959][255]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.04-21.46.01:959][255]LogBlueprintUserMessages: Shotgun
+[2024.05.04-21.46.03:826][479]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.04-21.46.04:877][605]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.46.05:835][720]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.46.06:643][817]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.46.07:358][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.46.07:358][898]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.46.07:358][898]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.04-21.46.07:359][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.46.07:359][898]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.04-21.46.07:372][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.04-21.46.07:376][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.46.07:386][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.04-21.46.07:386][898]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.05.04-21.46.07:386][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.05.04-21.46.07:388][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.05.04-21.46.07:391][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.46.07:393][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.04-21.46.07:449][899]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.05.04-21.46.08:736][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.04-21.46.08:741][ 50]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.04-21.46.08:741][ 50]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.04-21.46.08:743][ 50]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 29 ms)
+[2024.05.04-21.46.08:743][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.04-21.46.08:743][ 50]PIE: New page: PIE session: FirstPersonMap (May 4, 2024, 11:46:08 AM)
+[2024.05.04-21.46.08:778][ 50]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.46.08:783][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004702s)
+[2024.05.04-21.46.08:783][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004740s)
+[2024.05.04-21.46.08:795][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.04-21.46.08:798][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.04-21.46.08:798][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.04-21.46.08:798][ 50]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.04-21.46.08:799][ 50]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.04-21.46.08:799][ 50]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.04-21.46.08:799][ 50]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.04-21.46.08:799][ 50]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.04-21.46.08:800][ 50]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.05.04-21.46.08:800][ 50]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 361 ms)
+[2024.05.04-21.46.08:800][ 50]LogPlayLevel: PIE: World Init took: (0.001948s)
+[2024.05.04-21.46.08:800][ 50]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.05.04-21.46.08:800][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.04-21.46.08:800][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.04-21.46.08:800][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.04-21.46.08:800][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.04-21.46.08:800][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.04-21.46.08:800][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.04-21.46.08:800][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.04-21.46.08:800][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.04-21.46.08:800][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.04-21.46.08:800][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.04-21.46.08:800][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.04-21.46.08:802][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.04-21.46.08:819][ 50]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.05.04-21.46.08:819][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.04-21.46.08:819][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.04-21.46.08:819][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.04-21.46.08:820][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.05.04-21.46.08:820][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.05.04-21.46.08:821][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.05.04-21.46.08:821][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.05.04-21.46.08:821][ 50]LogInit: FAudioDevice initialized with ID 17.
+[2024.05.04-21.46.08:821][ 50]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonMap'.
+[2024.05.04-21.46.08:821][ 50]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.05.04-21.46.08:823][ 50]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.04-21.46.08:825][ 50]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.04-16.46.08
+[2024.05.04-21.46.08:825][ 50]LogWorld: Bringing up level for play took: 0.001809
+[2024.05.04-21.46.08:826][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.05.04-21.46.08:829][ 50]PIE: Server logged in
+[2024.05.04-21.46.08:829][ 50]PIE: Play in editor total start time 0.088 seconds.
+[2024.05.04-21.46.10:335][222]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.04-21.46.10:869][286]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.04-21.46.10:870][286]LogBlueprintUserMessages: Pistol
+[2024.05.04-21.46.12:069][430]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.46.12:452][476]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.46.13:452][596]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.04-21.46.13:785][636]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.46.14:153][680]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.46.15:511][843]LogBlueprintUserMessages: Cant do that
+[2024.05.04-21.46.16:189][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.46.16:189][921]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.04-21.46.16:189][921]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.04-21.46.16:189][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.46.16:189][921]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.04-21.46.16:193][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.04-21.46.16:197][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.04-21.46.16:206][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.04-21.46.16:207][921]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.05.04-21.46.16:207][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.05.04-21.46.16:209][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.05.04-21.46.16:214][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.04-21.46.16:270][922]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.05.04-21.46.29:491][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.04-21.46.30:449][269]LogSlate: Window 'Save Content' being destroyed
+[2024.05.04-21.46.30:456][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.04-21.46.30:494][269]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1B/VDAQXETSUVSATTY0PP7YDL
+[2024.05.04-21.46.30:495][269]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/VDAQXETSUVSATTY0PP7YDL2168C98041A2155D6CBFE99C9B5DE69C.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1B/VDAQXETSUVSATTY0PP7YDL.uasset'
+[2024.05.04-21.46.30:563][269]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.04-21.46.30:563][269]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/BP_FirstPersonCharacter270751E14F8E1796C10645A4AACDC994.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.04-21.46.30:578][269]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Pickup_Pistol
+[2024.05.04-21.46.30:579][269]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/BP_Pickup_PistolBC988C7A42DB911915DC96AAFECDC7EC.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/FirstPerson/Blueprints/BP_Pickup_Pistol.uasset'
+[2024.05.04-21.46.30:591][269]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Pickup_Shotgun
+[2024.05.04-21.46.30:592][269]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/BP_Pickup_ShotgunEF93E59B46E1D94BCD0EA881329B38F2.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/FirstPerson/Blueprints/BP_Pickup_Shotgun.uasset'
+[2024.05.04-21.46.30:598][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 732 ms)
+[2024.05.04-21.46.30:602][269]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.04-21.46.30:602][269]LogContentValidation: Display: Validating /Game/AmmoPickup.AmmoPickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AmmoPickup_C_UAID_9C6B0014AE5469F201_1211212194
+[2024.05.04-21.46.30:602][269]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.04-21.46.30:602][269]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Pistol.BP_Pickup_Pistol
+[2024.05.04-21.46.30:602][269]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Shotgun.BP_Pickup_Shotgun
