@@ -14068,3 +14068,496 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get AmmoInventoryRe
 [2024.05.25-22.25.40:218][231]AssetCheck: New page: Asset Save: multiple assets
 [2024.05.25-22.25.40:218][231]LogContentValidation: Display: Validating /Game/AmmoPickup.AmmoPickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AmmoPickup_C_UAID_9C6B0014AE5469F201_1211212194
 [2024.05.25-22.25.40:218][231]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.05.25-22.29.06:176][771]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.25-22.29.06:268][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.25-22.29.06:289][771]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_UAID_9C6B0014AE5451EF01_2109500801] Shotgun
+[2024.05.25-22.29.06:290][771]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_0] Shotgun
+[2024.05.25-22.29.06:290][771]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_1] Shotgun
+[2024.05.25-22.29.06:442][771]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_UAID_9C6B0014AE5451EF01_2109500801] Shotgun
+[2024.05.25-22.29.06:442][771]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_0] Shotgun
+[2024.05.25-22.29.06:443][771]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_1] Shotgun
+[2024.05.25-22.29.26:317][117]BlueprintLog: New page: Compile AmmoPickup
+[2024.05.25-22.29.26:350][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.25-22.29.27:726][231]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.25-22.29.27:732][231]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.25-22.29.27:732][231]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.25-22.29.27:733][231]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 166 ms)
+[2024.05.25-22.29.27:734][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.25-22.29.27:734][231]PIE: New page: PIE session: FirstPersonMap (May 25, 2024, 12:29:27 PM)
+[2024.05.25-22.29.27:755][231]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.25-22.29.27:760][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004192s)
+[2024.05.25-22.29.27:760][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004219s)
+[2024.05.25-22.29.27:773][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.25-22.29.27:779][231]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.25-22.29.27:779][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.25-22.29.27:779][231]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.25-22.29.27:780][231]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.25-22.29.27:780][231]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.25-22.29.27:780][231]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.25-22.29.27:780][231]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.25-22.29.27:780][231]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.05.25-22.29.27:780][231]LogWorldPartition: Display: WorldPartition initialize took 964 us (total: 482 ms)
+[2024.05.25-22.29.27:780][231]LogPlayLevel: PIE: World Init took: (0.001812s)
+[2024.05.25-22.29.27:781][231]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2024.05.25-22.29.27:781][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.25-22.29.27:781][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.25-22.29.27:781][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.25-22.29.27:781][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.25-22.29.27:781][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.25-22.29.27:781][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.25-22.29.27:781][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.25-22.29.27:781][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.25-22.29.27:781][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.25-22.29.27:781][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.25-22.29.27:781][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.25-22.29.27:783][231]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.25-22.29.27:800][231]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.05.25-22.29.27:800][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.25-22.29.27:800][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.25-22.29.27:800][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.25-22.29.27:800][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2024.05.25-22.29.27:800][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2024.05.25-22.29.27:803][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2024.05.25-22.29.27:803][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2024.05.25-22.29.27:803][231]LogInit: FAudioDevice initialized with ID 86.
+[2024.05.25-22.29.27:803][231]LogAudio: Display: Audio Device (ID: 86) registered with world 'FirstPersonMap'.
+[2024.05.25-22.29.27:803][231]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 86
+[2024.05.25-22.29.27:805][231]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.25-22.29.27:807][231]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.25-17.29.27
+[2024.05.25-22.29.27:807][231]LogWorld: Bringing up level for play took: 0.001739
+[2024.05.25-22.29.27:808][231]LogOnline: OSS: Created online subsystem instance for: :Context_103
+[2024.05.25-22.29.27:810][231]PIE: Server logged in
+[2024.05.25-22.29.27:811][231]PIE: Play in editor total start time 0.079 seconds.
+[2024.05.25-22.29.29:431][416]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.25-22.29.30:057][491]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.25-22.29.30:465][540]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.29.30:465][540]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.29.32:940][837]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.29.32:940][837]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.32:940][837]LogBlueprintUserMessages: 1
+[2024.05.25-22.29.32:940][837]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.29.34:440][ 17]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.29.34:440][ 17]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.34:440][ 17]LogBlueprintUserMessages: 0
+[2024.05.25-22.29.34:440][ 17]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.29.35:849][186]LogBlueprintUserMessages: Ammo Pickup hit
+[2024.05.25-22.29.35:849][186]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.29.35:849][186]LogBlueprintUserMessages: 200
+[2024.05.25-22.29.35:849][186]LogBlueprintUserMessages: true
+[2024.05.25-22.29.35:849][186]LogBlueprintUserMessages: Too Much Picked Up
+[2024.05.25-22.29.35:849][186]LogScript: Warning: Script Msg: Attempted to set an invalid index on array TargetArray [0/0]!
+[2024.05.25-22.29.35:849][186]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2024.05.25-22.29.38:933][556]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.29.38:933][556]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.38:933][556]LogBlueprintUserMessages: 1
+[2024.05.25-22.29.38:933][556]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.29.40:400][732]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.29.40:400][732]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.40:400][732]LogBlueprintUserMessages: 0
+[2024.05.25-22.29.40:400][732]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.29.41:138][820]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.29.41:138][820]LogBlueprintUserMessages: Weapon Already Equipped
+[2024.05.25-22.29.41:764][895]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.29.41:764][895]LogBlueprintUserMessages: Weapon Already Equipped
+[2024.05.25-22.29.42:546][989]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.29.42:546][989]LogBlueprintUserMessages: Weapon Already Equipped
+[2024.05.25-22.29.45:147][301]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.29.45:147][301]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.45:147][301]LogBlueprintUserMessages: 1
+[2024.05.25-22.29.45:147][301]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.29.45:822][382]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.29.45:822][382]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.45:822][382]LogBlueprintUserMessages: 0
+[2024.05.25-22.29.45:822][382]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.29.46:356][446]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.29.46:955][518]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.29.46:955][518]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.46:955][518]LogBlueprintUserMessages: 1
+[2024.05.25-22.29.46:955][518]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.29.47:823][622]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.29.47:823][622]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.47:823][622]LogBlueprintUserMessages: 0
+[2024.05.25-22.29.47:823][622]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.29.48:047][649]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.29.48:298][679]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.29.48:548][709]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.29.48:756][734]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.29.50:089][894]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.29.50:089][894]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.50:089][894]LogBlueprintUserMessages: 1
+[2024.05.25-22.29.50:089][894]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.29.50:464][939]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.29.50:689][966]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.29.51:207][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-22.29.51:207][ 25]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.25-22.29.51:207][ 25]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-22.29.51:207][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-22.29.51:207][ 25]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.25-22.29.51:221][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.25-22.29.51:225][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-22.29.51:238][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-22.29.51:239][ 25]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 86
+[2024.05.25-22.29.51:239][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2024.05.25-22.29.51:240][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2024.05.25-22.29.51:246][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.25-22.29.51:306][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2024.05.25-22.29.52:685][187]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.25-22.29.52:690][187]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.25-22.29.52:690][187]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.25-22.29.52:692][187]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 168 ms)
+[2024.05.25-22.29.52:692][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.25-22.29.52:692][187]PIE: New page: PIE session: FirstPersonMap (May 25, 2024, 12:29:52 PM)
+[2024.05.25-22.29.52:717][187]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.25-22.29.52:721][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004309s)
+[2024.05.25-22.29.52:721][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004335s)
+[2024.05.25-22.29.52:733][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.25-22.29.52:738][187]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.25-22.29.52:738][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.25-22.29.52:738][187]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.25-22.29.52:739][187]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.25-22.29.52:739][187]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.25-22.29.52:739][187]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.25-22.29.52:739][187]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.25-22.29.52:740][187]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.05.25-22.29.52:740][187]LogWorldPartition: Display: WorldPartition initialize took 949 us (total: 483 ms)
+[2024.05.25-22.29.52:740][187]LogPlayLevel: PIE: World Init took: (0.001711s)
+[2024.05.25-22.29.52:740][187]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2024.05.25-22.29.52:740][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.25-22.29.52:740][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.25-22.29.52:740][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.25-22.29.52:740][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.25-22.29.52:740][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.25-22.29.52:740][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.25-22.29.52:740][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.25-22.29.52:740][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.25-22.29.52:740][187]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.25-22.29.52:740][187]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.25-22.29.52:740][187]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.25-22.29.52:742][187]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.25-22.29.52:758][187]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.05.25-22.29.52:758][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.25-22.29.52:758][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.25-22.29.52:758][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.25-22.29.52:758][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2024.05.25-22.29.52:758][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2024.05.25-22.29.52:760][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2024.05.25-22.29.52:760][187]LogInit: FAudioDevice initialized with ID 87.
+[2024.05.25-22.29.52:760][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2024.05.25-22.29.52:760][187]LogAudio: Display: Audio Device (ID: 87) registered with world 'FirstPersonMap'.
+[2024.05.25-22.29.52:760][187]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 87
+[2024.05.25-22.29.52:762][187]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.25-22.29.52:764][187]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.25-17.29.52
+[2024.05.25-22.29.52:764][187]LogWorld: Bringing up level for play took: 0.001594
+[2024.05.25-22.29.52:765][187]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2024.05.25-22.29.52:767][187]PIE: Server logged in
+[2024.05.25-22.29.52:767][187]PIE: Play in editor total start time 0.077 seconds.
+[2024.05.25-22.29.54:244][355]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.25-22.29.54:710][411]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.29.54:710][411]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.29.55:460][501]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.25-22.29.56:211][591]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.29.56:211][591]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.29.56:211][591]LogBlueprintUserMessages: 1
+[2024.05.25-22.29.56:211][591]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.29.57:185][708]LogBlueprintUserMessages: Ammo Pickup hit
+[2024.05.25-22.29.57:186][708]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.29.57:186][708]LogBlueprintUserMessages: 200
+[2024.05.25-22.29.57:186][708]LogBlueprintUserMessages: true
+[2024.05.25-22.29.57:186][708]LogBlueprintUserMessages: Too Much Picked Up
+[2024.05.25-22.29.57:186][708]LogScript: Warning: Script Msg: Attempted to set an invalid index on array TargetArray [0/0]!
+[2024.05.25-22.29.57:186][708]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2024.05.25-22.30.02:337][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-22.30.02:337][323]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.25-22.30.02:337][323]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-22.30.02:338][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-22.30.02:338][323]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.25-22.30.02:341][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.25-22.30.02:345][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-22.30.02:358][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-22.30.02:358][323]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 87
+[2024.05.25-22.30.02:358][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2024.05.25-22.30.02:359][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2024.05.25-22.30.02:365][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.25-22.30.02:426][324]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2024.05.25-22.30.26:417][142]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.25-22.30.26:493][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.25-22.30.26:514][142]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_UAID_9C6B0014AE5451EF01_2109500801] Shotgun
+[2024.05.25-22.30.26:514][142]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_0] Shotgun
+[2024.05.25-22.30.26:515][142]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_1] Shotgun
+[2024.05.25-22.30.26:622][142]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_UAID_9C6B0014AE5451EF01_2109500801] Shotgun
+[2024.05.25-22.30.26:622][142]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_0] Shotgun
+[2024.05.25-22.30.26:623][142]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_1] Shotgun
+[2024.05.25-22.30.28:108][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.25-22.30.28:115][279]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.25-22.30.28:115][279]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.25-22.30.28:117][279]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 169 ms)
+[2024.05.25-22.30.28:117][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.25-22.30.28:117][279]PIE: New page: PIE session: FirstPersonMap (May 25, 2024, 12:30:28 PM)
+[2024.05.25-22.30.28:159][279]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.25-22.30.28:162][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003883s)
+[2024.05.25-22.30.28:162][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003907s)
+[2024.05.25-22.30.28:176][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.25-22.30.28:191][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.25-22.30.28:191][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.25-22.30.28:192][279]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.25-22.30.28:192][279]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.25-22.30.28:192][279]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.25-22.30.28:192][279]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.25-22.30.28:192][279]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.25-22.30.28:193][279]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.05.25-22.30.28:193][279]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 484 ms)
+[2024.05.25-22.30.28:193][279]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2024.05.25-22.30.28:193][279]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2024.05.25-22.30.28:193][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.25-22.30.28:193][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.25-22.30.28:193][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.25-22.30.28:193][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.25-22.30.28:193][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.25-22.30.28:193][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.25-22.30.28:193][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.25-22.30.28:193][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.25-22.30.28:193][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.25-22.30.28:193][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.25-22.30.28:193][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.25-22.30.28:195][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.25-22.30.28:212][279]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.05.25-22.30.28:212][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.25-22.30.28:212][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.25-22.30.28:212][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.25-22.30.28:213][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2024.05.25-22.30.28:213][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2024.05.25-22.30.28:214][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2024.05.25-22.30.28:214][279]LogInit: FAudioDevice initialized with ID 88.
+[2024.05.25-22.30.28:214][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2024.05.25-22.30.28:214][279]LogAudio: Display: Audio Device (ID: 88) registered with world 'FirstPersonMap'.
+[2024.05.25-22.30.28:214][279]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2024.05.25-22.30.28:216][279]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.25-22.30.28:217][279]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.25-17.30.28
+[2024.05.25-22.30.28:217][279]LogWorld: Bringing up level for play took: 0.001563
+[2024.05.25-22.30.28:218][279]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2024.05.25-22.30.28:220][279]PIE: Server logged in
+[2024.05.25-22.30.28:221][279]PIE: Play in editor total start time 0.105 seconds.
+[2024.05.25-22.30.29:750][452]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.25-22.30.29:816][460]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.30.29:816][460]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.30.30:400][530]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.25-22.30.30:859][585]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.30.30:859][585]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.30.30:859][585]LogBlueprintUserMessages: 1
+[2024.05.25-22.30.30:859][585]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.30.31:541][667]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.30.31:541][667]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.30.31:541][667]LogBlueprintUserMessages: 0
+[2024.05.25-22.30.31:541][667]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.30.32:533][786]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.30.32:533][786]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.30.32:533][786]LogBlueprintUserMessages: 1
+[2024.05.25-22.30.32:533][786]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.30.33:991][961]LogBlueprintUserMessages: Ammo Pickup hit
+[2024.05.25-22.30.33:991][961]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.30.33:991][961]LogBlueprintUserMessages: 200
+[2024.05.25-22.30.33:991][961]LogBlueprintUserMessages: true
+[2024.05.25-22.30.33:991][961]LogBlueprintUserMessages: Too Much Picked Up
+[2024.05.25-22.30.36:450][256]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.30.36:450][256]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.30.36:450][256]LogBlueprintUserMessages: 0
+[2024.05.25-22.30.36:450][256]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.30.38:193][465]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.30.38:193][465]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.30.38:193][465]LogBlueprintUserMessages: 1
+[2024.05.25-22.30.38:193][465]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.30.38:776][535]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.30.38:776][535]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.30.38:776][535]LogBlueprintUserMessages: 0
+[2024.05.25-22.30.38:776][535]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.30.39:593][633]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.30.39:952][676]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.30.40:176][703]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.30.40:394][729]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.30.40:602][754]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.30.40:851][784]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.30.41:077][811]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.30.41:759][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-22.30.41:759][889]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.25-22.30.41:759][889]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-22.30.41:760][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-22.30.41:760][889]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.25-22.30.41:763][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.25-22.30.41:767][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-22.30.41:781][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.25-22.30.41:781][889]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2024.05.25-22.30.41:781][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2024.05.25-22.30.41:782][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2024.05.25-22.30.41:785][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-22.30.41:787][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.25-22.30.41:849][890]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2024.05.25-22.31.51:930][ 66]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.05.25-22.31.52:020][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.25-22.31.52:028][ 66]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_UAID_9C6B0014AE5451EF01_2109500801] Shotgun
+[2024.05.25-22.31.52:029][ 66]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_0] Shotgun
+[2024.05.25-22.31.52:029][ 66]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_1] Shotgun
+[2024.05.25-22.31.52:133][ 66]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_UAID_9C6B0014AE5451EF01_2109500801] Shotgun
+[2024.05.25-22.31.52:133][ 66]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_0] Shotgun
+[2024.05.25-22.31.52:134][ 66]LogBlueprintUserMessages: [BP_Pickup_Shotgun_C_1] Shotgun
+[2024.05.25-22.31.53:622][200]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.25-22.31.53:627][200]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.25-22.31.53:627][200]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.05.25-22.31.53:630][200]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 171 ms)
+[2024.05.25-22.31.53:630][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.25-22.31.53:630][200]PIE: New page: PIE session: FirstPersonMap (May 25, 2024, 12:31:53 PM)
+[2024.05.25-22.31.53:662][200]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.25-22.31.53:666][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004465s)
+[2024.05.25-22.31.53:666][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004492s)
+[2024.05.25-22.31.53:681][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.25-22.31.53:694][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.25-22.31.53:695][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.25-22.31.53:695][200]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.05.25-22.31.53:695][200]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.25-22.31.53:695][200]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.25-22.31.53:695][200]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.25-22.31.53:695][200]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.25-22.31.53:696][200]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.05.25-22.31.53:697][200]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 486 ms)
+[2024.05.25-22.31.53:697][200]LogPlayLevel: PIE: World Init took: (0.002097s)
+[2024.05.25-22.31.53:697][200]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2024.05.25-22.31.53:697][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.25-22.31.53:697][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.25-22.31.53:697][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.25-22.31.53:697][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.25-22.31.53:697][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.05.25-22.31.53:697][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.25-22.31.53:697][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.05.25-22.31.53:697][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.25-22.31.53:697][200]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.25-22.31.53:697][200]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.25-22.31.53:697][200]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.25-22.31.53:699][200]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.25-22.31.53:717][200]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.05.25-22.31.53:717][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.25-22.31.53:717][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.25-22.31.53:717][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.25-22.31.53:718][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2024.05.25-22.31.53:718][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2024.05.25-22.31.53:719][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2024.05.25-22.31.53:719][200]LogInit: FAudioDevice initialized with ID 89.
+[2024.05.25-22.31.53:719][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2024.05.25-22.31.53:719][200]LogAudio: Display: Audio Device (ID: 89) registered with world 'FirstPersonMap'.
+[2024.05.25-22.31.53:719][200]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 89
+[2024.05.25-22.31.53:721][200]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.05.25-22.31.53:723][200]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.05.25-17.31.53
+[2024.05.25-22.31.53:723][200]LogWorld: Bringing up level for play took: 0.001653
+[2024.05.25-22.31.53:724][200]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2024.05.25-22.31.53:726][200]PIE: Server logged in
+[2024.05.25-22.31.53:727][200]PIE: Play in editor total start time 0.099 seconds.
+[2024.05.25-22.31.55:195][367]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.25-22.31.55:345][385]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.31.55:345][385]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.31.55:970][460]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.31.56:221][490]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.31.56:429][515]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.31.57:087][594]LogBlueprintUserMessages: PICKED UP THE WEAPON
+[2024.05.25-22.31.57:353][626]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.31.57:353][626]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.31.57:353][626]LogBlueprintUserMessages: 1
+[2024.05.25-22.31.57:353][626]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.31.57:821][682]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.31.58:195][727]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.31.58:620][778]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.31.58:620][778]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.31.58:620][778]LogBlueprintUserMessages: 0
+[2024.05.25-22.31.58:620][778]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.31.59:728][911]LogBlueprintUserMessages: Ammo Pickup hit
+[2024.05.25-22.31.59:728][911]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.31.59:728][911]LogBlueprintUserMessages: 200
+[2024.05.25-22.31.59:728][911]LogBlueprintUserMessages: true
+[2024.05.25-22.31.59:728][911]LogBlueprintUserMessages: Too Much Picked Up
+[2024.05.25-22.32.01:037][ 68]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.01:238][ 92]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.01:413][113]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.01:579][133]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.01:755][154]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.01:921][174]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.03:387][350]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.03:555][370]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.03:730][391]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.03:895][411]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.04:071][432]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.04:238][452]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.04:412][473]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.05:296][579]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.05:438][596]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.05:621][618]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.05:805][640]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.05:979][661]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.06:155][682]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.06:988][782]LogBlueprintUserMessages: [Player Inventory] 1
+[2024.05.25-22.32.06:988][782]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.32.06:988][782]LogBlueprintUserMessages: 1
+[2024.05.25-22.32.06:988][782]LogBlueprintUserMessages: Shotgun
+[2024.05.25-22.32.07:497][843]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.07:863][887]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.08:212][929]LogBlueprintUserMessages: [Player Inventory] 0
+[2024.05.25-22.32.08:212][929]LogBlueprintUserMessages: Trying to Equip: 
+[2024.05.25-22.32.08:212][929]LogBlueprintUserMessages: 0
+[2024.05.25-22.32.08:212][929]LogBlueprintUserMessages: Pistol
+[2024.05.25-22.32.08:763][995]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.08:955][ 18]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.09:130][ 39]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.09:288][ 58]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.10:172][164]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.10:346][185]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.10:505][204]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.10:679][225]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.10:838][244]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.10:996][263]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.11:155][282]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.11:330][303]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.11:488][322]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.11:655][342]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.11:830][363]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.11:988][382]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.12:755][474]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.12:914][493]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.13:080][513]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.13:246][533]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.13:438][556]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.13:605][576]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.13:772][596]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.13:930][615]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.14:130][639]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.14:297][659]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.14:463][679]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.14:613][697]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.14:805][720]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.14:955][738]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.15:138][760]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.15:313][781]LogBlueprintUserMessages: Has Ammo In Mag
+[2024.05.25-22.32.16:543][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-22.32.16:543][926]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.05.25-22.32.16:543][926]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.25-22.32.16:544][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-22.32.16:544][926]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.05.25-22.32.16:547][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.25-22.32.16:551][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.25-22.32.16:564][926]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.25-22.32.16:565][926]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 89
+[2024.05.25-22.32.16:565][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2024.05.25-22.32.16:567][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2024.05.25-22.32.16:570][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.25-22.32.16:573][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.25-22.32.16:635][927]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2024.05.25-22.32.18:985][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.25-22.32.19:958][203]LogSlate: Window 'Save Content' being destroyed
+[2024.05.25-22.32.20:111][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.25-22.32.20:195][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AmmoPickup" FILE="../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/AmmoPickup.uasset" SILENT=true
+[2024.05.25-22.32.20:201][203]LogSavePackage: Moving output files for package: /Game/AmmoPickup
+[2024.05.25-22.32.20:201][203]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/AmmoPickup7ECB92FA46315D2AE90DD6901CA21C12.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/AmmoPickup.uasset'
+[2024.05.25-22.32.20:203][203]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1B/VDAQXETSUVSATTY0PP7YDL
+[2024.05.25-22.32.20:203][203]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/VDAQXETSUVSATTY0PP7YDL3FE227F44703A58859BEABA3593926CF.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1B/VDAQXETSUVSATTY0PP7YDL.uasset'
+[2024.05.25-22.32.20:262][203]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.05.25-22.32.20:262][203]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/BP_FirstPersonCharacter4421E476436B2AA063810991AFB191EA.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.05.25-22.32.20:270][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 3.80 sec)
+[2024.05.25-22.32.20:273][203]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.25-22.32.20:273][203]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AmmoPickup.AmmoPickup
+[2024.05.25-22.32.20:273][203]LogContentValidation: Display: Validating /Game/AmmoPickup.AmmoPickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AmmoPickup_C_UAID_9C6B0014AE5469F201_1211212194
+[2024.05.25-22.32.20:273][203]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
