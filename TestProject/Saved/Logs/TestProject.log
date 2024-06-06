@@ -1685,3 +1685,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.06-03.22.47:349][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2024.06.06-03.22.47:355][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2024.06.06-03.22.47:412][812]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.06.06-03.23.24:592][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.06.06-03.23.26:240][178]LogSlate: Window 'Save Content' being destroyed
+[2024.06.06-03.23.27:328][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.06-03.23.28:361][303]LogSlate: Window 'Save Content' being destroyed
+[2024.06.06-03.23.28:485][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.06-03.23.28:637][303]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.06.06-03.23.28:638][303]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/BP_FirstPersonCharacterEEFD78B2434BFC667FDD7488833E6204.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.06.06-03.23.28:644][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestInteractActor" FILE="../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/TestInteractActor.uasset" SILENT=true
+[2024.06.06-03.23.28:652][303]LogSavePackage: Moving output files for package: /Game/TestInteractActor
+[2024.06.06-03.23.28:654][303]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/TestInteractActorA72AEDF64B6E634A8445DCAE75B5BC30.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/TestInteractActor.uasset'
+[2024.06.06-03.23.28:660][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 463 ms)
+[2024.06.06-03.23.28:662][303]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.06-03.23.28:662][303]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.06.06-03.23.28:662][303]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestInteractActor.TestInteractActor
