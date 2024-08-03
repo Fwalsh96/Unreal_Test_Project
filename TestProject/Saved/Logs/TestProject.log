@@ -4064,3 +4064,8 @@ Script Stack (1 frames) :
 [2024.08.03-23.16.41:138][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.96 sec)
 [2024.08.03-23.16.41:139][463]AssetCheck: New page: Asset Save: LittleDoor
 [2024.08.03-23.16.41:139][463]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LittleDoor.LittleDoor
+[2024.08.03-23.17.08:978][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.08.03-23.17.08:987][713]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1I/JV05V4UT6HAHQZZTJEUVZV_Auto6
+[2024.08.03-23.17.08:987][713]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/JV05V4UT6HAHQZZTJEUVZV_Auto6BDCF0C484BF63A55BA984DA86FF14BF9.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1I/JV05V4UT6HAHQZZTJEUVZV_Auto6.uasset'
+[2024.08.03-23.17.08:988][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2024.08.03-23.17.08:988][713]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
