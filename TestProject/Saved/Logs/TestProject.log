@@ -3131,3 +3131,66 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.24-22.22.56:143][434]LogDerivedDataCache: C:/Users/Brack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.065 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 587 files in 996 folders with total size 7 MiB.
 [2024.08.24-23.22.56:138][231]LogDerivedDataCache: C:/Users/Brack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.059 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 587 files in 996 folders with total size 7 MiB.
 [2024.08.25-00.22.56:139][303]LogDerivedDataCache: C:/Users/Brack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.060 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 587 files in 996 folders with total size 7 MiB.
+[2024.08.25-00.34.00:816][228]LogViewport: Scene viewport resized to 731x375, mode Windowed.
+[2024.08.25-00.34.01:536][228]LogViewport: Scene viewport resized to 1388x584, mode Windowed.
+[2024.08.25-00.34.02:335][311]LogViewport: Scene viewport resized to 731x375, mode Windowed.
+[2024.08.25-00.34.02:977][311]LogViewport: Scene viewport resized to 1388x584, mode Windowed.
+[2024.08.25-00.34.14:767][671]Cmd: EDIT COPY
+[2024.08.25-00.34.15:164][718]Cmd: EDIT PASTE
+[2024.08.25-00.34.33:087][754]Cmd: EDIT COPY
+[2024.08.25-00.34.33:907][852]Cmd: EDIT PASTE
+[2024.08.25-00.34.40:670][585]Cmd: TRANSACTION UNDO
+[2024.08.25-00.34.40:670][585]LogEditorTransaction: Undo Clicking on Elements
+[2024.08.25-00.35.04:629][232]LogSlate: Took 0.000526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.25-00.35.06:325][412]Cmd: SELECT NONE
+[2024.08.25-00.36.04:423][ 69]Cmd: TRANSACTION UNDO
+[2024.08.25-00.36.04:423][ 69]LogEditorTransaction: Undo Set Rotation
+[2024.08.25-00.36.04:652][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-00.36.04:814][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/2Q/J5H0WB14QK874E3244IET3
+[2024.08.25-00.36.04:814][ 69]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/J5H0WB14QK874E3244IET3BDB5B68E4E3957476B85A7AAF51DBCF7.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/2Q/J5H0WB14QK874E3244IET3.uasset'
+[2024.08.25-00.36.04:816][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RY/DKQ0DDO98WD4HH2EECIW8X
+[2024.08.25-00.36.04:816][ 69]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/DKQ0DDO98WD4HH2EECIW8XE9C45F7F42848BBECE8EB5BEF377C716.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RY/DKQ0DDO98WD4HH2EECIW8X.uasset'
+[2024.08.25-00.36.04:818][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AU/Y99I7ZZK71EU1B626INS1F
+[2024.08.25-00.36.04:818][ 69]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/Y99I7ZZK71EU1B626INS1FA27EE711476C300C00ECFEAC4F6911A0.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AU/Y99I7ZZK71EU1B626INS1F.uasset'
+[2024.08.25-00.36.04:820][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/XY/SX7UP2KVVD4QYNVSJMDXQA
+[2024.08.25-00.36.04:820][ 69]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/SX7UP2KVVD4QYNVSJMDXQABA922433446DC3E707777685E14B361D.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/XY/SX7UP2KVVD4QYNVSJMDXQA.uasset'
+[2024.08.25-00.36.04:822][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6P/0YPLY1NU9N131K3FWS6FSQ
+[2024.08.25-00.36.04:822][ 69]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/0YPLY1NU9N131K3FWS6FSQ8DBA482C4934E6FFEE04F7901FF94F9E.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6P/0YPLY1NU9N131K3FWS6FSQ.uasset'
+[2024.08.25-00.36.05:189][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 536 ms (total: 2.53 sec)
+[2024.08.25-00.36.05:194][ 69]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-00.36.05:194][ 69]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2015880239
+[2024.08.25-00.36.05:194][ 69]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2034621240
+[2024.08.25-00.36.05:194][ 69]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2034623241
+[2024.08.25-00.36.05:194][ 69]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2034624242
+[2024.08.25-00.36.05:194][ 69]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2034627243
+[2024.08.25-00.36.05:561][106]Cmd: TRANSACTION UNDO
+[2024.08.25-00.36.05:562][106]LogEditorTransaction: Undo Set Location
+[2024.08.25-00.36.27:847][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-00.36.27:891][584]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/W7/ROD4I4HAOX0JKBGW6U3MF8
+[2024.08.25-00.36.27:892][584]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/ROD4I4HAOX0JKBGW6U3MF83F85AD154EA221F387BDE693B99356DE.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/W7/ROD4I4HAOX0JKBGW6U3MF8.uasset'
+[2024.08.25-00.36.27:893][584]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/2Q/J5H0WB14QK874E3244IET3
+[2024.08.25-00.36.27:894][584]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/J5H0WB14QK874E3244IET3AA88256C4861DACA11876F8BF670CE19.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/2Q/J5H0WB14QK874E3244IET3.uasset'
+[2024.08.25-00.36.27:896][584]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RY/DKQ0DDO98WD4HH2EECIW8X
+[2024.08.25-00.36.27:896][584]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/DKQ0DDO98WD4HH2EECIW8X54D291C644DEABCD3E89CF94FEA32F11.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RY/DKQ0DDO98WD4HH2EECIW8X.uasset'
+[2024.08.25-00.36.27:897][584]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AU/Y99I7ZZK71EU1B626INS1F
+[2024.08.25-00.36.27:898][584]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/Y99I7ZZK71EU1B626INS1F054E059B4F73FC1CE465F281F97AB99D.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AU/Y99I7ZZK71EU1B626INS1F.uasset'
+[2024.08.25-00.36.27:899][584]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/XY/SX7UP2KVVD4QYNVSJMDXQA
+[2024.08.25-00.36.27:900][584]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/SX7UP2KVVD4QYNVSJMDXQA98C39AFD406CABF35584B29940D68400.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/XY/SX7UP2KVVD4QYNVSJMDXQA.uasset'
+[2024.08.25-00.36.27:901][584]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6P/0YPLY1NU9N131K3FWS6FSQ
+[2024.08.25-00.36.27:901][584]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/0YPLY1NU9N131K3FWS6FSQ4600F0E64DF333F6460112A1870EFCF3.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6P/0YPLY1NU9N131K3FWS6FSQ.uasset'
+[2024.08.25-00.36.27:906][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.59 sec)
+[2024.08.25-00.36.27:908][584]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-00.36.27:908][584]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE5402E801_1428834503
+[2024.08.25-00.36.27:908][584]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2015880239
+[2024.08.25-00.36.27:908][584]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2034621240
+[2024.08.25-00.36.27:908][584]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2034623241
+[2024.08.25-00.36.27:908][584]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2034624242
+[2024.08.25-00.36.27:908][584]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0014AE54A81502_2034627243
+[2024.08.25-00.36.39:844][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.08.25-00.36.40:730][931]LogSlate: Window 'Save Content' being destroyed
+[2024.08.25-00.36.40:820][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-00.36.40:856][931]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2Q/CH8DZ5DW61CXB9U47QFBTI
+[2024.08.25-00.36.40:857][931]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/CH8DZ5DW61CXB9U47QFBTIF562A3724DB58F178463C7A64959B091.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2Q/CH8DZ5DW61CXB9U47QFBTI.uasset'
+[2024.08.25-00.36.40:863][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.63 sec)
+[2024.08.25-00.36.40:865][931]AssetCheck: New page: Asset Save: BasicEnemy_C_UAID_9C6B0014AE54CA0C02_1920942719
+[2024.08.25-00.36.40:865][931]LogContentValidation: Display: Validating /Game/Blueprints/BasicEnemy.BasicEnemy_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BasicEnemy_C_UAID_9C6B0014AE54CA0C02_1920942719
