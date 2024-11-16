@@ -2683,3 +2683,34 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.16-22.38.20:410][777]LogPlayLevel: Display: Destroying online subsystem :Context_40
 [2024.11.16-22.38.24:355][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
 [2024.11.16-22.38.25:257][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.16-22.39.02:211][965]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.16-22.39.02:751][ 21]LogViewport: Scene viewport resized to 1212x691, mode Windowed.
+[2024.11.16-22.39.51:391][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.16-22.39.51:483][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-22.39.51:572][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestNoteInteractable" FILE="../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/TestNoteInteractable.uasset" SILENT=true
+[2024.11.16-22.39.51:587][673]LogSavePackage: Moving output files for package: /Game/TestNoteInteractable
+[2024.11.16-22.39.51:588][673]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/TestNoteInteractable374C365D4AEE452F4B15F1B37576238D.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/TestNoteInteractable.uasset'
+[2024.11.16-22.39.51:592][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.06 sec)
+[2024.11.16-22.39.51:593][673]AssetCheck: New page: Asset Save: TestNoteInteractable
+[2024.11.16-22.39.51:593][673]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestNoteInteractable.TestNoteInteractable
+[2024.11.16-22.39.52:025][725]BlueprintLog: New page: Compile TestNoteInteractable
+[2024.11.16-22.39.52:053][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.16-22.39.53:015][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.16-22.40.07:966][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.16-22.40.08:064][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-22.40.08:276][618]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.16-22.40.08:276][618]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/BP_FirstPersonCharacterBEBCE11443624D6C461B8DA741FC121C.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.16-22.40.08:285][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 2.28 sec)
+[2024.11.16-22.40.08:287][618]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.11.16-22.40.08:287][618]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.16-22.41.01:107][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.16-22.41.09:592][815]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.16-22.41.09:689][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.16-22.41.12:063][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.16-22.41.12:168][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-22.41.12:380][ 50]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.16-22.41.12:381][ 50]LogSavePackage: Moving '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Saved/BP_FirstPersonCharacter8A3C3FDF4BB2915F5B8E8EBCEC75B168.tmp' to '../../../../../../Users/Brack/Documents/Git Directory/Unreal_Test_Project/TestProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.16-22.41.12:386][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 2.50 sec)
+[2024.11.16-22.41.12:389][ 50]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.11.16-22.41.12:389][ 50]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.16-22.41.13:389][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
